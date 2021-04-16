@@ -23,6 +23,7 @@
 #include <map>
 #include <cassert>
 #include <set>
+#include <algorithm>
 
 using namespace std;
 using ll = int64_t;
@@ -79,6 +80,12 @@ struct State {
   bool isEmpty(ll rr, ll cc) {
     if(!inBounds(rr,cc)) { return false; }
     return G[rr][cc]=='.';
+  }
+  bool isPushDest(ll rr, ll cc) {
+    if(!inBounds(rr,cc)) { return false; }
+    if(isStool(rr,cc)) { return true; }
+    if(isEmpty(rr,cc)) { return true; }
+    return false;
   }
   bool isPushable(pll p) {
     auto [rr,cc] = p;
@@ -138,11 +145,15 @@ struct State {
     vector<pll> NEW;
     for(ll r3=0; r3<R; r3++) {
       for(ll c3=0; c3<C; c3++) {
-        if(G[r3][c3]==id) {
+        // stools are only 1 square big
+        if(G[r3][c3]==id && (id!='*' || (r3==rr && c3==cc))) {
           ll r4 = r3+d.dr();
           ll c4 = c3+d.dc();
           if(!inBounds(r4,c4)) { return false; }
-          if(G[r4][c4]!='.' && G[r4][c4]!=id && G[r4][c4]!='^') { return false; }
+          char ch = G[r4][c4];
+          if(!(ch=='.' || (ch==id && id!='*') || (ch=='^' && ('A'<=id && id<='Z')))) {
+            return false;
+          }
           if(G[r4][c4]=='^') { dead = true; }
           OLD.push_back(make_pair(r3,c3));
           NEW.push_back(make_pair(r4,c4));
@@ -167,6 +178,32 @@ struct State {
       ll ccc = cc+d.dc();
       if(inBounds(rrr,ccc) && G[rrr][ccc]==id) {
         kill(rrr,ccc);
+      }
+    }
+  }
+  // sort monsters and obstacles
+  void normalize() {
+    map<char,char> M;
+    char next_monster = 'A';
+    char next_obstacle = 'a';
+    for(ll rr=0; rr<R; rr++) {
+      for(ll cc=0; cc<C; cc++) {
+        char ch = G[rr][cc];
+        if('A'<=ch && ch<='Z' && M.count(ch)==0) {
+          M[ch] = next_monster;
+          next_monster++;
+        }
+        if('z'<=ch && ch<='z' && M.count(ch)==0) {
+          M[ch] = next_obstacle;
+          next_obstacle++;
+        }
+      }
+    }
+    for(ll rr=0; rr<R; rr++) {
+      for(ll cc=0; cc<C; cc++) {
+        if(M.count(G[rr][cc])==1) {
+          G[rr][cc] = M[G[rr][cc]];
+        }
       }
     }
   }
@@ -262,6 +299,7 @@ vector<pair<State, Move>> moves(const State& S) {
             S2.c = cc;
             if(S2.isTool(rr,cc)) {
               S2.T.push_back(S2.G[rr][cc]-'0');
+              sort(S2.T.begin(), S2.T.end());
               S2.G[rr][cc] = '.';
               break;
             } else if(S2.isSpike(rr,cc)) {
@@ -332,7 +370,7 @@ vector<pair<State, Move>> moves(const State& S) {
       } else if(t==5) { // glove: pulls
         pll dest = d.add(S2.p());
         pll src = d.flip().add(S2.p());
-        if(S2.isPushable(src) && S2.isEmpty(dest.first, dest.second)) {
+        if(S2.isPushable(src) && (S2.isPushDest(dest.first, dest.second))) {
           if(S2.push(src.first,src.second,d)) {
             S2.r = dest.first;
             S2.c = dest.second;
@@ -343,6 +381,7 @@ vector<pair<State, Move>> moves(const State& S) {
         assert(false);
       }
       if(changed && !dead) {
+        S2.normalize();
         ans.push_back(make_pair(S2, make_pair(t, d.toChar())));
       }
     }
@@ -393,7 +432,7 @@ int main() {
       //cerr << m << endl << y << endl;
       if(PAR.count(y)==0) {
         PAR[y] = make_pair(x, m);
-        if(PAR.size()%1000==0) {
+        if(PAR.size()%10000==0) {
           cerr << PAR.size() << " " << path_length(y, start, PAR) << endl;
         }
         Q.push(y);
