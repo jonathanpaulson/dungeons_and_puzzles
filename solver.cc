@@ -26,6 +26,7 @@
 
 using namespace std;
 using ll = int64_t;
+using pll = pair<ll,ll>;
 
 struct Dir {
   enum Value {
@@ -41,7 +42,9 @@ struct Dir {
   }
   int dr() { return vector<int>{-1, 0, 1, 0}[v]; }
   int dc() { return vector<int>{0, 1, 0, -1}[v]; }
+  pll add(pll p) { return make_pair(p.first+dr(), p.second+dc()); }
   static vector<Dir> values() { return vector<Dir>{Up,Right,Down,Left}; }
+  Dir flip() { return Dir::Value((v+2)%4); }
 };
 
 struct State {
@@ -50,6 +53,8 @@ struct State {
   ll r,c;
   vector<vector<char>> G; // map
   vector<int> T; // available tools
+
+  pll p() { return make_pair(r,c); }
 
   bool inBounds(ll rr, ll cc) {
     return 0<=rr && rr<R && 0<=cc && cc<C;
@@ -74,6 +79,16 @@ struct State {
   bool isEmpty(ll rr, ll cc) {
     if(!inBounds(rr,cc)) { return false; }
     return G[rr][cc]=='.';
+  }
+  bool isPushable(pll p) {
+    auto [rr,cc] = p;
+    if(!inBounds(rr,cc)) { return false; }
+    if(isMonster(rr,cc)) { return true; }
+    if(isObstacle(rr,cc)) { return true; }
+    if(isStool(rr,cc)) { return true; }
+    if(isTool(rr,cc)) { return true; }
+    if(isArrow(rr,cc)) { return true; }
+    return false;
   }
   bool isMoveable(ll rr, ll cc) {
     if(!inBounds(rr,cc)) { return false; }
@@ -110,6 +125,40 @@ struct State {
     if(!inBounds(rr,cc)) { return false; }
     return 'A'<=G[rr][cc] && G[rr][cc]<='Z';
   }
+  bool isObstacle(ll rr, ll cc) {
+    if(!inBounds(rr,cc)) { return false; }
+    return 'a'<=G[rr][cc] && G[rr][cc]<='z';
+  }
+
+  bool push(ll rr, ll cc, Dir d) {
+    if(!inBounds(rr,cc)) { return false; }
+    ll id = G[rr][cc];
+    bool dead = false;
+    vector<pll> OLD;
+    vector<pll> NEW;
+    for(ll r3=0; r3<R; r3++) {
+      for(ll c3=0; c3<C; c3++) {
+        if(G[r3][c3]==id) {
+          ll r4 = r3+d.dr();
+          ll c4 = c3+d.dc();
+          if(!inBounds(r4,c4)) { return false; }
+          if(G[r4][c4]!='.' && G[r4][c4]!=id && G[r4][c4]!='^') { return false; }
+          if(G[r4][c4]=='^') { dead = true; }
+          OLD.push_back(make_pair(r3,c3));
+          NEW.push_back(make_pair(r4,c4));
+        }
+      }
+    }
+    for(auto [r3,c3] : OLD) {
+      G[r3][c3] = '.';
+    }
+    if(!dead) {
+      for(auto [r3,c3] : NEW) {
+        G[r3][c3] = id;
+      }
+    }
+    return true;
+  }
   void kill(ll rr, ll cc) {
     ll id = G[rr][cc];
     G[rr][cc] = '.';
@@ -127,6 +176,9 @@ struct State {
   }
   bool operator==(const State& o) const {
     return make_tuple(r,c,G,T) == make_tuple(o.r,o.c,o.G,o.T);
+  }
+  bool operator!=(const State& o) const {
+    return make_tuple(r,c,G,T) != make_tuple(o.r,o.c,o.G,o.T);
   }
 };
 ostream& operator<<(ostream& o, const pair<int,char>& move) {
@@ -256,6 +308,37 @@ vector<pair<State, Move>> moves(const State& S) {
             changed = true;
           }
         }
+      } else if(t==4) { // shield: pushes
+        while(true) {
+          ll rr = S2.r+d.dr();
+          ll cc = S2.c+d.dc();
+          if(!S2.inBounds(rr,cc)) {
+            break;
+          } else if(S2.isSpike(rr,cc)) {
+            break;
+          } else if(S2.isPushable(make_pair(rr,cc))) {
+            if(S2.push(rr,cc,d)) {
+              changed = true;
+            }
+            break;
+          } else if(S2.isEmpty(rr,cc)) {
+            changed = true;
+            S2.r = rr;
+            S2.c = cc;
+          } else {
+            break;
+          }
+        }
+      } else if(t==5) { // glove: pulls
+        pll dest = d.add(S2.p());
+        pll src = d.flip().add(S2.p());
+        if(S2.isPushable(src) && S2.isEmpty(dest.first, dest.second)) {
+          if(S2.push(src.first,src.second,d)) {
+            S2.r = dest.first;
+            S2.c = dest.second;
+            changed = true;
+          }
+        }
       } else {
         assert(false);
       }
@@ -270,6 +353,28 @@ bool done(const State& S) {
   return S.G[S.r][S.c] == '>';
 }
 
+ll path_length(State x, State start, map<State, pair<State, Move>>& PAR) {
+  ll ans = 0;
+  while(x!=start) {
+    x = PAR[x].first;
+    ans++;
+  }
+  return ans;
+}
+void show_path(State x, State start, map<State, pair<State, Move>>& PAR) {
+  vector<Move> M;
+  while(x!=start) {
+    auto& [p, m] = PAR[x];
+    M.push_back(m);
+    x = p;
+  }
+  cout << M.size() << endl;
+  for(ll i=0; i<M.size(); i++) {
+    auto [t,d] = M[M.size()-1-i];
+    cout << (i+1) << ": " << t << d << endl;
+  }
+}
+
 int main() {
   map<State, pair<State, Move>> PAR;
   State start = readLevel();
@@ -277,28 +382,23 @@ int main() {
   Q.push(start);
   while(!Q.empty()) {
     State x = Q.front(); Q.pop();
+    //cerr << "=========================" << endl;
+    //show_path(x, start, PAR);
     //cerr << x << endl;
     if(done(x)) {
-      vector<Move> M;
-      while(true) {
-        auto& [p, m] = PAR[x];
-        M.push_back(m);
-        x = p;
-        if(x==start) { break; }
-      }
-      cout << M.size() << endl;
-      for(ll i=0; i<M.size(); i++) {
-        auto [t,d] = M[M.size()-1-i];
-        cout << (i+1) << ": " << t << d << endl;
-      }
+      show_path(x, start, PAR);
       return 0;
     }
     for(auto& [y,m] : moves(x)) {
       //cerr << m << endl << y << endl;
       if(PAR.count(y)==0) {
         PAR[y] = make_pair(x, m);
+        if(PAR.size()%1000==0) {
+          cerr << PAR.size() << " " << path_length(y, start, PAR) << endl;
+        }
         Q.push(y);
       }
     }
+    //cerr << "=========================" << endl;
   }
 }

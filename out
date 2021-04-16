@@ -1,0 +1,6450 @@
+=========================
+Tools: 1
+#2AA.*
+#^AA..
+Ba..!#
+b...5#
+##>###
+
+1U
+Tools: 1
+#2AA!*
+#^AA..
+Ba...#
+b...5#
+##>###
+
+1
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+2
+1L
+Tools: 1
+#2AA.*
+#^AA..
+Ba!..#
+b...5#
+##>###
+
+3
+=========================
+=========================
+Tools: 1
+#2AA!*
+#^AA..
+Ba...#
+b...5#
+##>###
+
+1R
+Tools: 1
+#2AA.!
+#^AA..
+Ba...#
+b...5#
+##>###
+
+4
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+b....#
+##>###
+
+5
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b!...#
+##>###
+
+6
+=========================
+=========================
+Tools: 1
+#2AA.*
+#^AA..
+Ba!..#
+b...5#
+##>###
+
+1R
+Tools: 1
+#2AA.*
+#^AA..
+Ba..!#
+b...5#
+##>###
+
+7
+1D
+Tools: 1
+#2AA.*
+#^AA..
+Ba...#
+b.!.5#
+##>###
+
+8
+=========================
+=========================
+Tools: 1
+#2AA.!
+#^AA..
+Ba...#
+b...5#
+##>###
+
+1D
+Tools: 1
+#2AA.*
+#^AA.!
+Ba...#
+b...5#
+##>###
+
+9
+1L
+Tools: 1
+#2AA!*
+#^AA..
+Ba...#
+b...5#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+b....#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+b....#
+##>###
+
+10
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+b....#
+##>###
+
+11
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b!...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=1 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+.b!..#
+##>###
+
+12
+=========================
+=========================
+Tools: 1
+#2AA.*
+#^AA..
+Ba..!#
+b...5#
+##>###
+
+1U
+Tools: 1
+#2AA!*
+#^AA..
+Ba...#
+b...5#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+1L
+Tools: 1
+#2AA.*
+#^AA..
+Ba!..#
+b...5#
+##>###
+
+=========================
+=========================
+Tools: 1
+#2AA.*
+#^AA..
+Ba...#
+b.!.5#
+##>###
+
+1U
+Tools: 1
+#2AA.*
+#^AA..
+Ba!..#
+b...5#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+1L
+Tools: 1
+#2AA.*
+#^AA..
+Ba...#
+b!..5#
+##>###
+
+13
+=========================
+=========================
+Tools: 1
+#2AA.*
+#^AA.!
+Ba...#
+b...5#
+##>###
+
+1U
+Tools: 1
+#2AA.!
+#^AA..
+Ba...#
+b...5#
+##>###
+
+1L
+Tools: 1
+#2AA.*
+#^AA!.
+Ba...#
+b...5#
+##>###
+
+14
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+b....#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+b....#
+##>###
+
+15
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+b....#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+b....#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+b....#
+##>###
+
+16
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+.b!..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba!..#
+.b...#
+##>###
+
+17
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+.b..!#
+##>###
+
+18
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+..b!.#
+##>###
+
+19
+=========================
+=========================
+Tools: 1
+#2AA.*
+#^AA..
+Ba...#
+b!..5#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+=========================
+=========================
+Tools: 1
+#2AA.*
+#^AA!.
+Ba...#
+b...5#
+##>###
+
+1U
+Tools: 1
+#2AA!*
+#^AA..
+Ba...#
+b...5#
+##>###
+
+1R
+Tools: 1
+#2AA.*
+#^AA.!
+Ba...#
+b...5#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+b....#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+b....#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+Ba...#
+b....#
+##>###
+
+20
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+b....#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+b....#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba!..#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba..!#
+.b...#
+##>###
+
+21
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+.b!..#
+##>###
+
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a!.#
+.b...#
+##>###
+
+22
+5D
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+.b!..#
+##>###
+
+23
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+.b..!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+.b...#
+##>###
+
+24
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+.b!..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+..b!.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba.!.#
+..b..#
+##>###
+
+25
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+..b.!#
+##>###
+
+26
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+...b!#
+##>###
+
+27
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+Ba...#
+b....#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+b....#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+b....#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+b...!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+b....#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba..!#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+.b...#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+.b..!#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba!..#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a!.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a.!#
+.b...#
+##>###
+
+28
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b.!.#
+##>###
+
+29
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a!#
+.b...#
+##>###
+
+30
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+.b!..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=1 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+.b..!#
+##>###
+
+31
+5R
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+..b!.#
+##>###
+
+32
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+.b...#
+##>###
+
+33
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+.b...#
+##>###
+
+34
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba.!.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba..!#
+..b..#
+##>###
+
+35
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+..b!.#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba!..#
+..b..#
+##>###
+
+36
+5D
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+..b!.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+..b.!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+..b..#
+##>###
+
+37
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+..b!.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+...b!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+...b.#
+##>###
+
+38
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a.!#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+.b...#
+##>###
+
+39
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b..!#
+##>###
+
+40
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a!.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b.!.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a!.#
+.b...#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b..!#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b!..#
+##>###
+
+41
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a!#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+.b...#
+##>###
+
+42
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+.b..!#
+##>###
+
+43
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+.b..!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2..!*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+44
+1L
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+.b!..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+..b!.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=1 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+..b.!#
+##>###
+
+45
+5R
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+...b!#
+##>###
+
+46
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+.b...#
+##>###
+
+47
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+.b...#
+##>###
+
+48
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba..!#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+..b..#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+..b.!#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba!..#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba!..#
+..b..#
+##>###
+
+d=U S2.isPullable=1 moveable=0
+d=D S2.isPullable=1 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba..!#
+..b..#
+##>###
+
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a!.#
+..b..#
+##>###
+
+49
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+..b..#
+##>###
+
+50
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+..b..#
+##>###
+
+51
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+...b.#
+##>###
+
+52
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+...b!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+...b.#
+##>###
+
+53
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+B.a..#
+.b...#
+##>###
+
+54
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+B.a..#
+.b...#
+##>###
+
+55
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b..!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+.b...#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b!..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b!..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=1 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+..b!.#
+##>###
+
+56
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+B..a.#
+.b...#
+##>###
+
+57
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+B..a.#
+.b...#
+##>###
+
+58
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+.b..!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+.b...#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+.b!..#
+##>###
+
+59
+=========================
+=========================
+Tools: 1 5
+#2..!*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5
+#2...!
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+60
+1D
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+.b..!#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+61
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+..b.!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2..!*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+62
+1L
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+..b!.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+...b!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2..!*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+63
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+.b...#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+Ba...#
+.b...#
+##>###
+
+64
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a!.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a.!#
+..b..#
+##>###
+
+65
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+..b!.#
+##>###
+
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a!#
+..b..#
+##>###
+
+66
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+..b..#
+##>###
+
+67
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+..b..#
+##>###
+
+68
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+...b.#
+##>###
+
+69
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+...b.#
+##>###
+
+70
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+B.a..#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+B.a..#
+.b...#
+##>###
+
+71
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+B.a..#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+B.a..#
+.b...#
+##>###
+
+72
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+..b!.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a!.#
+..b..#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+..b.!#
+##>###
+
+73
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+...b!#
+##>###
+
+74
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+B..a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+B..a.#
+.b...#
+##>###
+
+75
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+B..a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+B..a.#
+.b...#
+##>###
+
+76
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+.b!..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA.*
+#^AA..
+B.!a.#
+.b...#
+##>###
+
+77
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+..b!.#
+##>###
+
+78
+=========================
+=========================
+Tools: 1 5
+#2...!
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2...*
+#^AA.!
+BaAA.#
+.b...#
+##>###
+
+79
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+80
+=========================
+=========================
+Tools: 1 5
+#2..!*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5
+#2...!
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+81
+1D
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+..b.!#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+82
+=========================
+=========================
+Tools: 1 5
+#2..!*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5
+#2...!
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+83
+1D
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+...b!#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+84
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+.b...#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+.b...#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a.!#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+..b..#
+##>###
+
+85
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+..b.!#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a!.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a!#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+..b..#
+##>###
+
+86
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+..b.!#
+##>###
+
+87
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+..b..#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+Ba...#
+..b..#
+##>###
+
+88
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+Ba...#
+...b.#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+Ba...#
+...b.#
+##>###
+
+89
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+Ba...#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+B.a..#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+B.a..#
+.b...#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+B.a..#
+.b...#
+##>###
+
+90
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+B.a..#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+B.a..#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+..b.!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+..b..#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+..b!.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+...b!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+...b.#
+##>###
+
+91
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+B..a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+B..a.#
+.b...#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+B..a.#
+.b...#
+##>###
+
+92
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+B..a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+B..a.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B.!a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+.b!..#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+B!.a.#
+.b...#
+##>###
+
+93
+5L
+Tools: 1 5
+#2AA.*
+#^AA..
+B!a..#
+.b...#
+##>###
+
+94
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+..b!.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=1 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+...b!#
+##>###
+
+95
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA.!
+BaAA.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2...!
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+1L
+Tools: 1 5
+#2...*
+#^AA!.
+BaAA.#
+.b...#
+##>###
+
+96
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^AA.!
+BaAA.#
+.b...#
+##>###
+
+97
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2...!
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2...*
+#^AA.!
+BaAA.#
+..b..#
+##>###
+
+98
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+99
+=========================
+=========================
+Tools: 1 5
+#2...!
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2...*
+#^AA.!
+BaAA.#
+...b.#
+##>###
+
+100
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+101
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+B.a..#
+..b..#
+##>###
+
+102
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+B.a..#
+..b..#
+##>###
+
+103
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+B..a.#
+..b..#
+##>###
+
+104
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+B..a.#
+..b..#
+##>###
+
+105
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+..b.!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+..b..#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+..b!.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+..b..#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+..b..#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+Ba...#
+...b.#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+Ba...#
+...b.#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+Ba...#
+...b!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+Ba...#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+B.a..#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+.b...#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+B.a..#
+.b...#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+B.a..#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+B.a..#
+...b.#
+##>###
+
+106
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+...b!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+B.a..#
+...b.#
+##>###
+
+107
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+B..a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+.b...#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+B..a.#
+.b...#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+B..a.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B!.a.#
+.b...#
+##>###
+
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+B.!a.#
+.b...#
+##>###
+
+5U
+Tools: 1 5
+#2AA.*
+#!AA..
+Bb.a.#
+.....#
+##>###
+
+108
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+.B!a.#
+.b...#
+##>###
+
+109
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B!a..#
+.b...#
+##>###
+
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=1 moveable=0
+5U
+Tools: 1 5
+#2AA.*
+#!AA..
+Bba..#
+.....#
+##>###
+
+110
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+...b!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+...b.#
+##>###
+
+111
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA!.
+BaAA.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2..!*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+1R
+Tools: 1 5
+#2...*
+#^AA.!
+BaAA.#
+.b...#
+##>###
+
+1D
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2...*
+#^.AA!
+Ba.AA#
+.b...#
+##>###
+
+112
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA.!
+BaAA.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+1L
+Tools: 1 5 2
+#....*
+#^AA!.
+BaAA.#
+.b...#
+##>###
+
+113
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA.!
+BaAA.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2...!
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+1L
+Tools: 1 5
+#2...*
+#^AA!.
+BaAA.#
+..b..#
+##>###
+
+114
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^AA.!
+BaAA.#
+..b..#
+##>###
+
+115
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA.!
+BaAA.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2...!
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+1L
+Tools: 1 5
+#2...*
+#^AA!.
+BaAA.#
+...b.#
+##>###
+
+116
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^AA.!
+BaAA.#
+...b.#
+##>###
+
+117
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+B.a..#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+B.a..#
+..b..#
+##>###
+
+118
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+B.a..#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+B.a..#
+..b..#
+##>###
+
+119
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+B..a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+B..a.#
+..b..#
+##>###
+
+120
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+B..a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+B..a.#
+..b..#
+##>###
+
+121
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+B.a..#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+B.a..#
+...b.#
+##>###
+
+122
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+B.a..#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+B.a..#
+...b.#
+##>###
+
+123
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#!AA..
+Bb.a.#
+.....#
+##>###
+
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=1 moveable=0
+1U
+Tools: 1 5 2
+#!AA.*
+#^AA..
+Bb.a.#
+.....#
+##>###
+
+124
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+.B!a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=L S2.isPullable=1 moveable=0
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+.b!..#
+##>###
+
+125
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#!AA..
+Bba..#
+.....#
+##>###
+
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=1 moveable=0
+1U
+Tools: 1 5 2
+#!AA.*
+#^AA..
+Bba..#
+.....#
+##>###
+
+126
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+B..a.#
+...b.#
+##>###
+
+127
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+...b!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+B..a.#
+...b.#
+##>###
+
+128
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^.AA!
+Ba.AA#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2...!
+#^.AA.
+Ba.AA#
+.b...#
+##>###
+
+129
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA!.
+BaAA.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#...!*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+130
+1R
+Tools: 1 5 2
+#....*
+#^AA.!
+BaAA.#
+.b...#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+.b..!#
+##>###
+
+131
+5R
+Tools: 1 5 2
+#....*
+#^.AA!
+Ba.AA#
+.b...#
+##>###
+
+132
+2L
+Tools: 1 5 2
+#....*
+#^..!.
+Ba...#
+.b...#
+##>###
+
+133
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA!.
+BaAA.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2..!*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+1R
+Tools: 1 5
+#2...*
+#^AA.!
+BaAA.#
+..b..#
+##>###
+
+1D
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2...*
+#^.AA!
+Ba.AA#
+..b..#
+##>###
+
+134
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA.!
+BaAA.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+1L
+Tools: 1 5 2
+#....*
+#^AA!.
+BaAA.#
+..b..#
+##>###
+
+135
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^AA!.
+BaAA.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2..!*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+1R
+Tools: 1 5
+#2...*
+#^AA.!
+BaAA.#
+...b.#
+##>###
+
+1D
+Tools: 1 5
+#2...*
+#^AA..
+BaAA.#
+...b!#
+##>###
+
+5R
+Tools: 1 5
+#2...*
+#^.AA!
+Ba.AA#
+...b.#
+##>###
+
+136
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA.!
+BaAA.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+1L
+Tools: 1 5 2
+#....*
+#^AA!.
+BaAA.#
+...b.#
+##>###
+
+137
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+B.a..#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+B.a..#
+..b..#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+B.a..#
+..b..#
+##>###
+
+138
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+B.a..#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+B.a..#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+B..a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+B..a.#
+..b..#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+B..a.#
+..b..#
+##>###
+
+139
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+B..a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+B..a.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+B.a..#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+B.a..#
+...b.#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+B.a..#
+...b.#
+##>###
+
+140
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+B.a..#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+B.a..#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!AA.*
+#^AA..
+Bb.a.#
+.....#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=1 moveable=0
+2R
+Tools: 1 5 2
+#!...*
+#^....
+Bb.a.#
+.....#
+##>###
+
+141
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+.b!..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA.*
+#^AA..
+.B!a.#
+.b...#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+.b..!#
+##>###
+
+142
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+..b!.#
+##>###
+
+143
+=========================
+=========================
+Tools: 1 5 2
+#!AA.*
+#^AA..
+Bba..#
+.....#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=1 moveable=0
+2R
+Tools: 1 5 2
+#!...*
+#^....
+Bba..#
+.....#
+##>###
+
+144
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+B..a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+B..a.#
+...b.#
+##>###
+
+145
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+B..a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+B..a.#
+...b.#
+##>###
+
+146
+=========================
+=========================
+Tools: 1 5
+#2...!
+#^.AA.
+Ba.AA#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2...*
+#^.AA!
+Ba.AA#
+.b...#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^.AA.
+Ba.AA#
+.b...#
+##>###
+
+147
+=========================
+=========================
+Tools: 1 5 2
+#...!*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+.b..!#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+.b..!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#...!*
+#^AA..
+BaAA.#
+.b...#
+##>###
+
+1L
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+.b!..#
+##>###
+
+148
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^.AA!
+Ba.AA#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#....!
+#^.AA.
+Ba.AA#
+.b...#
+##>###
+
+149
+2L
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+.b...#
+##>###
+
+150
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^..!.
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#...!*
+#^....
+Ba...#
+.b...#
+##>###
+
+151
+1R
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+.b...#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+.b..!#
+##>###
+
+152
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^.AA!
+Ba.AA#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2...!
+#^.AA.
+Ba.AA#
+..b..#
+##>###
+
+153
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA!.
+BaAA.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#...!*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+154
+1R
+Tools: 1 5 2
+#....*
+#^AA.!
+BaAA.#
+..b..#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+..b.!#
+##>###
+
+155
+5R
+Tools: 1 5 2
+#....*
+#^.AA!
+Ba.AA#
+..b..#
+##>###
+
+156
+2L
+Tools: 1 5 2
+#....*
+#^..!.
+Ba...#
+..b..#
+##>###
+
+157
+=========================
+=========================
+Tools: 1 5
+#2...*
+#^.AA!
+Ba.AA#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2...!
+#^.AA.
+Ba.AA#
+...b.#
+##>###
+
+158
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA!.
+BaAA.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#...!*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+159
+1R
+Tools: 1 5 2
+#....*
+#^AA.!
+BaAA.#
+...b.#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+...b!#
+##>###
+
+160
+5R
+Tools: 1 5 2
+#....*
+#^.AA!
+Ba.AA#
+...b.#
+##>###
+
+161
+2L
+Tools: 1 5 2
+#....*
+#^..!.
+Ba...#
+...b.#
+##>###
+
+162
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+B.a..#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+..b..#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+B.a..#
+..b..#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+B.a..#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+B..a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+..b..#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+B..a.#
+..b..#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+B..a.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+B.a..#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B.a..#
+...b.#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+B.a..#
+...b.#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B.a..#
+...b!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+B.a..#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^....
+Bb.a.#
+.....#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^....
+Bb.a.#
+.....#
+##>###
+
+163
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+.b..!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+.b...#
+##>###
+
+164
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+.b!..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+..b!.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=1 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+..b.!#
+##>###
+
+165
+5R
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+...b!#
+##>###
+
+166
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^....
+Bba..#
+.....#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^....
+Bba..#
+.....#
+##>###
+
+167
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+B..a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+B..a.#
+...b.#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+B..a.#
+...b.#
+##>###
+
+168
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+B..a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+B..a.#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^.AA.
+Ba.AA#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^.AA.
+Ba.AA#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+.b!..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=1 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+.b..!#
+##>###
+
+5R
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+..b!.#
+##>###
+
+169
+2U
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+.b!..#
+##>###
+
+170
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^.AA.
+Ba.AA#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^.AA!
+Ba.AA#
+.b...#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^.AA.
+Ba.AA#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+.b...#
+##>###
+
+171
+=========================
+=========================
+Tools: 1 5 2
+#...!*
+#^....
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+.b...#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+.b..!#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+.b...#
+##>###
+
+172
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+.b..!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#...!*
+#^....
+Ba...#
+.b...#
+##>###
+
+1L
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+.b!..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2...!
+#^.AA.
+Ba.AA#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2...*
+#^.AA!
+Ba.AA#
+..b..#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^.AA.
+Ba.AA#
+..b..#
+##>###
+
+173
+=========================
+=========================
+Tools: 1 5 2
+#...!*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+..b.!#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+..b.!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#...!*
+#^AA..
+BaAA.#
+..b..#
+##>###
+
+1L
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+..b!.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^.AA!
+Ba.AA#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#....!
+#^.AA.
+Ba.AA#
+..b..#
+##>###
+
+174
+2L
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+..b..#
+##>###
+
+175
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^..!.
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#...!*
+#^....
+Ba...#
+..b..#
+##>###
+
+176
+1R
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+..b..#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+..b.!#
+##>###
+
+177
+=========================
+=========================
+Tools: 1 5
+#2...!
+#^.AA.
+Ba.AA#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2...*
+#^.AA!
+Ba.AA#
+...b.#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^.AA.
+Ba.AA#
+...b.#
+##>###
+
+178
+=========================
+=========================
+Tools: 1 5 2
+#...!*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5 2
+#....!
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+...b!#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+...b!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#...!*
+#^AA..
+BaAA.#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^.AA!
+Ba.AA#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#....!
+#^.AA.
+Ba.AA#
+...b.#
+##>###
+
+179
+2L
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+...b.#
+##>###
+
+180
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^..!.
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#...!*
+#^....
+Ba...#
+...b.#
+##>###
+
+181
+1R
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+...b.#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+...b!#
+##>###
+
+182
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^....
+Bb.a.#
+.....#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^...!
+Bb.a.#
+.....#
+##>###
+
+183
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Bb.a.#
+.....#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+.B.a.#
+.b...#
+##>###
+
+184
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+.B.a.#
+.b...#
+##>###
+
+185
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+..b.!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+..b..#
+##>###
+
+186
+1L
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+..b!.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+...b!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+...b.#
+##>###
+
+187
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^....
+Bba..#
+.....#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^...!
+Bba..#
+.....#
+##>###
+
+188
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Bba..#
+.....#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+B..a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+B..a.#
+...b.#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+B..a.#
+...b.#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+B..a.#
+...b!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+B..a.#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+..b!.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=1 moveable=0
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+..b.!#
+##>###
+
+5R
+Tools: 1 5 2
+#....*
+#^AA..
+BaAA.#
+...b!#
+##>###
+
+2U
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+..b!.#
+##>###
+
+189
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+.b!..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#.!..*
+#^....
+Ba...#
+.b...#
+##>###
+
+190
+1R
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+.b..!#
+##>###
+
+5R
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+..b!.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+.b...#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^.AA.
+Ba.AA#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^.AA.
+Ba.AA#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^.AA.
+Ba.AA#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^.AA!
+Ba.AA#
+..b..#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^.AA.
+Ba.AA#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+..b..#
+##>###
+
+191
+=========================
+=========================
+Tools: 1 5 2
+#...!*
+#^....
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+..b..#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+..b.!#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+..b..#
+##>###
+
+192
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+..b.!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#...!*
+#^....
+Ba...#
+..b..#
+##>###
+
+1L
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+..b!.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^.AA.
+Ba.AA#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^.AA.
+Ba.AA#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^.AA.
+Ba.AA#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^.AA!
+Ba.AA#
+...b.#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^.AA.
+Ba.AA#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+...b.#
+##>###
+
+193
+=========================
+=========================
+Tools: 1 5 2
+#...!*
+#^....
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+...b.#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+...b!#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+...b.#
+##>###
+
+194
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+...b!#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#...!*
+#^....
+Ba...#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^...!
+Bb.a.#
+.....#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#....!
+#^....
+Bb.a.#
+.....#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+.B.a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+.B.a.#
+.b...#
+##>###
+
+195
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+.B.a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+.B.a.#
+.b...#
+##>###
+
+196
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+.B.a.#
+..b..#
+##>###
+
+197
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+.B.a.#
+..b..#
+##>###
+
+198
+=========================
+=========================
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5
+#2AA.!
+#^AA..
+.B.a.#
+...b.#
+##>###
+
+199
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+...b!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA!
+#^.AA.
+.B.a.#
+...b.#
+##>###
+
+200
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^...!
+Bba..#
+.....#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5 2
+#....!
+#^....
+Bba..#
+.....#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+..b!.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5 2
+#..!.*
+#^....
+Ba...#
+..b..#
+##>###
+
+201
+1R
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+..b.!#
+##>###
+
+5R
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+...b!#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#.!..*
+#^....
+Ba...#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+.b...#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+.b!..#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+..b..#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5 2
+#....*
+#^...!
+Ba...#
+...b.#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1R
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+.B.a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+.B.a.#
+.b...#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+.B.a.#
+.b...#
+##>###
+
+202
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+.B.a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+.B.a.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+.B.a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+.B.a.#
+..b..#
+##>###
+
+203
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+.B.a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+.B.a.#
+..b..#
+##>###
+
+204
+=========================
+=========================
+Tools: 1 5
+#2AA.!
+#^AA..
+.B.a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1D
+Tools: 1 5
+#2AA.*
+#^AA.!
+.B.a.#
+...b.#
+##>###
+
+205
+1L
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2.AA!
+#^.AA.
+.B.a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1D
+Tools: 1 5
+#2.AA*
+#^.AA!
+.B.a.#
+...b.#
+##>###
+
+206
+=========================
+=========================
+Tools: 1 5 2
+#..!.*
+#^....
+Ba...#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=0
+d=R S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=1
+1R
+Tools: 1 5 2
+#....!
+#^....
+Ba...#
+..b..#
+##>###
+
+1D
+Tools: 1 5 2
+#....*
+#^....
+Ba...#
+..b!.#
+##>###
+
+1L
+Tools: 1 5 2
+#!...*
+#^....
+Ba...#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+.B.a.#
+.b...#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+.b...#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+.B.a.#
+.b...#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+.b..!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+.B.a.#
+.b...#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+.B.a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+.B.a.#
+..b..#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+.B.a.#
+..b..#
+##>###
+
+207
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+.B.a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+.B.a.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA.!
+.B.a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=0 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=1
+1U
+Tools: 1 5
+#2AA.!
+#^AA..
+.B.a.#
+...b.#
+##>###
+
+1L
+Tools: 1 5
+#2AA.*
+#^AA!.
+.B.a.#
+...b.#
+##>###
+
+208
+=========================
+=========================
+Tools: 1 5
+#2.AA*
+#^.AA!
+.B.a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=R S2.isPullable=1 moveable=0
+d=D S2.isPullable=0 moveable=0
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2.AA!
+#^.AA.
+.B.a.#
+...b.#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+.B.a.#
+..b..#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+..b..#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+.B.a.#
+..b..#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+..b.!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+.B.a.#
+..b..#
+##>###
+
+=========================
+=========================
+Tools: 1 5
+#2AA.*
+#^AA!.
+.B.a.#
+...b.#
+##>###
+
+d=U S2.isPullable=0 moveable=1
+d=D S2.isPullable=0 moveable=1
+d=L S2.isPullable=0 moveable=0
+1U
+Tools: 1 5
+#2AA!*
+#^AA..
+.B.a.#
+...b.#
+##>###
+
+1R
+Tools: 1 5
+#2AA.*
+#^AA.!
+.B.a.#
+...b.#
+##>###
+
+1D
+Tools: 1 5
+#2AA.*
+#^AA..
+.B.a.#
+...b!#
+##>###
+
+5R
+Tools: 1 5
+#2.AA*
+#^.AA!
+.B.a.#
+...b.#
+##>###
+
+=========================
