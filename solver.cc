@@ -1,12 +1,13 @@
 // '!': start
 // '#': wall
-// '>': stairs
+// '>': downstairs
 // UPPERCASE: monsterr
 // lowercase: obstacle
 // 2,3,4,5: tools
 // ^: spike
 // *: stool
 // -: arrow
+// []: portal
 //
 // Move is {1,2,3,4,5}{L,R,U,D} i.e. tool+direction
 // 1 is "boots"
@@ -14,7 +15,10 @@
 // 3 is "bow"
 // 4 is "shield"
 // 5 is "glove"
+//
+// Doesn't handle 117, which involves pushing onto downstairs!
 
+#include <fstream>
 #include <iostream>
 #include <vector>
 #include <string>
@@ -23,6 +27,7 @@
 #include <map>
 #include <cassert>
 #include <set>
+#include <functional>
 #include <algorithm>
 
 using namespace std;
@@ -69,6 +74,24 @@ struct State {
     assert(inBounds(rr,cc));
     return G[rr][cc]=='^';
   }
+  bool isPortal(ll rr, ll cc) {
+    assert(inBounds(rr,cc));
+    return G[rr][cc]=='[' || G[rr][cc]==']';
+  }
+  void portal() {
+    bool done = false;
+    assert(isPortal(r,c));
+    for(ll rr=0; rr<R; rr++) {
+      for(ll cc=0; cc<C; cc++) {
+        if(!done && isPortal(rr,cc) && G[rr][cc]!=G[r][c]) {
+          done = true;
+          r = rr;
+          c = cc;
+        }
+      }
+    }
+    assert(done);
+  }
   bool isStool(ll rr, ll cc) {
     assert(inBounds(rr,cc));
     return G[rr][cc]=='*';
@@ -105,6 +128,7 @@ struct State {
     if(isSpike(rr,cc)) { return true; }
     if(isStool(rr,cc)) { return true; }
     if(isArrow(rr,cc)) { return true; }
+    if(isPortal(rr,cc)) { return true; }
     if(ch=='>') { return noMonsters(); }
     return false;
   }
@@ -117,6 +141,17 @@ struct State {
       }
     }
     return true;
+  }
+  ll countMonsters() const {
+    set<char> M;
+    for(ll rr=0; rr<R; rr++) {
+      for(ll cc=0; cc<C; cc++) {
+        if('A'<=G[rr][cc] && G[rr][cc]<='Z') {
+          M.insert(G[rr][cc]);
+        }
+      }
+    }
+    return static_cast<ll>(M.size());
   }
   bool noMonsters() {
     for(ll rr=0; rr<R; rr++) {
@@ -209,7 +244,19 @@ struct State {
   }
 
   bool operator<(const State& o) const {
-    return make_tuple(r,c,G,T) < make_tuple(o.r,o.c,o.G,o.T);
+    if(r != o.r) {
+      return r < o.r;
+    }
+    if(c != o.c) {
+      return c < o.c;
+    }
+    if(G != o.G) {
+      return G < o.G;
+    }
+    if(T != o.T) {
+      return T < o.T;
+    }
+    return false;
   }
   bool operator==(const State& o) const {
     return make_tuple(r,c,G,T) == make_tuple(o.r,o.c,o.G,o.T);
@@ -282,9 +329,8 @@ vector<pair<State, Move>> moves(const State& S) {
     for(Dir d : vector<Dir::Value>{Dir::Up, Dir::Right, Dir::Down, Dir::Left}) {
       bool dead = false;
       bool changed = false;
+      bool normalize = false;
       State S2(S);
-      S2.G = vector<vector<char>>(S.G);
-      S2.T = vector<int>(S.T);
       if(t==1) {
         // Walk in the direction until you hit something
         // tool -> pick it up and stop
@@ -301,6 +347,9 @@ vector<pair<State, Move>> moves(const State& S) {
               S2.T.push_back(S2.G[rr][cc]-'0');
               sort(S2.T.begin(), S2.T.end());
               S2.G[rr][cc] = '.';
+              break;
+            } else if(S2.isPortal(rr, cc)) {
+              S2.portal();
               break;
             } else if(S2.isSpike(rr,cc)) {
               dead = true;
@@ -321,6 +370,7 @@ vector<pair<State, Move>> moves(const State& S) {
         if(S2.isMonster(rr,cc)) {
           changed = true;
           S2.kill(rr,cc);
+          normalize = true;
         }
       } else if(t==3) { // bow
         if(S2.noArrow()) {
@@ -336,6 +386,7 @@ vector<pair<State, Move>> moves(const State& S) {
               ar = rr;
               ac = cc;
               S2.kill(rr,cc);
+              normalize = true;
               break;
             } else {
               break;
@@ -352,11 +403,10 @@ vector<pair<State, Move>> moves(const State& S) {
           ll cc = S2.c+d.dc();
           if(!S2.inBounds(rr,cc)) {
             break;
-          } else if(S2.isSpike(rr,cc)) {
-            break;
           } else if(S2.isPushable(make_pair(rr,cc))) {
             if(S2.push(rr,cc,d)) {
               changed = true;
+              normalize = true;
             }
             break;
           } else if(S2.isEmpty(rr,cc)) {
@@ -375,13 +425,16 @@ vector<pair<State, Move>> moves(const State& S) {
             S2.r = dest.first;
             S2.c = dest.second;
             changed = true;
+            normalize = true;
           }
         }
       } else {
         assert(false);
       }
       if(changed && !dead) {
-        S2.normalize();
+        if(normalize) {
+          S2.normalize();
+        }
         ans.push_back(make_pair(S2, make_pair(t, d.toChar())));
       }
     }
@@ -421,23 +474,30 @@ int main() {
   Q.push(start);
   while(!Q.empty()) {
     State x = Q.front(); Q.pop();
-    //cerr << "=========================" << endl;
-    //show_path(x, start, PAR);
-    //cerr << x << endl;
+    bool DEBUG = false;
+    if(DEBUG) {
+      cerr << "=========================" << endl;
+      show_path(x, start, PAR);
+      cerr << x << endl;
+    }
     if(done(x)) {
       show_path(x, start, PAR);
       return 0;
     }
     for(auto& [y,m] : moves(x)) {
-      //cerr << m << endl << y << endl;
+      if(DEBUG) {
+        cerr << PAR.count(y) << " " << m << endl << y << endl;
+      }
       if(PAR.count(y)==0) {
         PAR[y] = make_pair(x, m);
         if(PAR.size()%10000==0) {
-          cerr << PAR.size() << " " << path_length(y, start, PAR) << endl;
+          cerr << PAR.size() << " " << path_length(x, start, PAR) << endl << x << endl;
         }
         Q.push(y);
       }
     }
-    //cerr << "=========================" << endl;
+    if(DEBUG) {
+      cerr << "=========================" << endl;
+    }
   }
 }
